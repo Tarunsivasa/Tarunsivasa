@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/18/80/66/188066d580cf161d68c7efdd1a96941e.jpg)](https://rishavchanda.io)
+[![MasterHead](https://giffiles.alphacoders.com/360/36013.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Tarun Siva Sai</h1>
 <h3 align="center">Creative Frontend Developer | Passionate about elegant, user-centric web experiences from India 🇮🇳</h3>
