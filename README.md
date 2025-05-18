@@ -1,7 +1,7 @@
 <!-- Masterhead GIF Banner -->
 <div align="center">
   <a href="https://rishavchanda.io" target="_blank">
-    <img src="https://giffiles.alphacoders.com/360/36013.gif" 
+    <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" 
          alt="MasterHead Banner" 
          style="width: 100%; max-width: 1200px; border-radius: 10px;" />
   </a>
