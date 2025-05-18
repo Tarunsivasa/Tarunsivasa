@@ -1,4 +1,13 @@
-[![MasterHead](https://giffiles.alphacoders.com/360/36013.gif)](https://rishavchanda.io)
+<!-- Masterhead GIF Banner -->
+<div align="center">
+  <a href="https://rishavchanda.io" target="_blank">
+    <img src="https://giffiles.alphacoders.com/360/36013.gif" 
+         alt="MasterHead Banner" 
+         style="width: 100%; max-width: 1200px; border-radius: 10px;" />
+  </a>
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Tarun Siva Sai</h1>
 <h3 align="center">Creative Frontend Developer | Passionate about elegant, user-centric web experiences from India 🇮🇳</h3>
