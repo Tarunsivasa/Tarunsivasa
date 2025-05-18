@@ -1,16 +1,34 @@
-[![MasterHead](https://i.pinimg.com/736x/85/53/cc/8553cc1dcf8d1c1bacd5a1afca5f9b58.jpg)](https://rishavchanda.io)
+<!-- Masterhead Banner -->
+<div align="center">
+  <a href="https://rishavchanda.io" target="_blank">
+    <img src="https://i.pinimg.com/736x/18/80/66/188066d580cf161d68c7efdd1a96941e.jpg" 
+         alt="Frontend Developer Banner" 
+         style="width: 100%; max-width: 900px; border-radius: 10px;" />
+  </a>
+</div>
 
+<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Tarun Siva Sai</h1>
-<h3 align="center">Creative Frontend Developer | Passionate about elegant, user-centric web experiences from India 🇮🇳</h3>
+<h3 align="center">
+  🎨 Creative Frontend Developer | 💡 Passionate about elegant, user-centric web experiences | 🌍 From India 🇮🇳
+</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tarunsivasa&label=Profile%20Views&color=0e75b6&style=flat" alt="tarunsivasa" />
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding Animation" width="400"/>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarunsivasa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+### 💼 About Me
+
 - 🔭 I’m currently working on **Lexan** – a sleek and smart frontend project  
-- 🌱 Currently exploring **App Development** to broaden my creative horizon  
+- 🌱 Exploring **App Development** to broaden my creative horizon  
 - 📫 Reach me at: **tarunsivasai03@gmail.com**  
 - ⚡ Fun fact: *I think I'm funny... sometimes the compiler disagrees 😅*
 
